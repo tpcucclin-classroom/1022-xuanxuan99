@@ -1,0 +1,14 @@
+p {
+    font: 16px normal bold sans-serif, "新細明體";
+    color: red;
+}
+
+.font1 {
+    font: 1.5em normal bold sans-serif, "標楷體";
+    color: #00FF00;
+}
+
+#font2 {
+    font: 30px normal bold sans-serif, "新細明體";
+    color: rgba(0, 0, 255, 1.0);
+}
