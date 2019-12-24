@@ -97,7 +97,7 @@ figure {
 }
 
 #menu li a:hover {
-    background-image: url(img/btn2.png);
+    /*background-image: url(img/btn2.png);*/
     background-size: contain;
-    color: brown;
+    color: greenyellow;
 }
